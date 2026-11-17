@@ -20,13 +20,13 @@ I apply **statistics, data analytics, and machine learning** to extract insights
 
 ---
 
-## About Me
+- ## About Me
 - Postgraduate Diploma in **Mathematical Sciences** 2026 (NQF 8)
 - Advanced Diploma in **Mathematical Sciences** 2025 (NQF 7)
 - Diploma in **Mathematical Sciences** 2024 (NQF 6)
-- Strong foundation in **Statistics, Data Analysis, and Research Methods**
-- Growing focus on **Data Science and Machine Learning**
-- Interests include **predictive modeling, business analytics, and socio-economic research**
+- Strong foundation in **Python, Statistics, SQL, and Research Methods**
+- Growing focus on **Data Analytics, Data Engineering, Data Science, and Machine Learning**
+- Interests include **ETL/data pipelines, business intelligence dashboards, predictive modeling, and socio-economic research**
 - Based in South Africa
 
 I enjoy working with real-world datasets, cleaning and preparing data, performing **statistical and machine learning analysis**, and presenting insights through clear visualisations and dashboards.
@@ -40,9 +40,9 @@ I enjoy working with real-world datasets, cleaning and preparing data, performin
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-- Statistical analysis and hypothesis testing  
-- Descriptive statistics and chi-square tests  
-- Data cleaning and preparation  
+- Statistical analysis and hypothesis testing
+- Descriptive statistics and chi-square tests
+- Data cleaning, auditing, and preparation
 
 ---
 
@@ -54,31 +54,33 @@ I enjoy working with real-world datasets, cleaning and preparing data, performin
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-- Exploratory data analysis (EDA)  
-- Feature engineering and data preprocessing  
-- Supervised machine learning (regression and classification)  
-- Model evaluation and validation  
+- Exploratory data analysis (EDA)
+- Feature engineering and data preprocessing
+- Supervised machine learning (regression and classification)
+- Time-series forecasting, model evaluation, and validation
 
 ---
 
-### Business Intelligence & Databases
+### Data Engineering, BI & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 </p>
 
-- Interactive dashboards and KPI reporting  
-- Data storytelling and business insights  
-- Querying, filtering, and aggregations  
+- ETL pipelines, data parsing, and schema normalization
+- Relational querying, joins, window functions, and aggregations
+- Interactive dashboards, KPI reporting, and business insights
 
 ---
 
 ## Career Interests
-- Data Analyst  
-- Data Scientist (Graduate / Junior)  
-- Machine Learning Analyst  
-- Business Intelligence Analyst  
-- Statistical / Research Assistant  
+- Data Analyst
+- Data Engineer (Graduate / Junior)
+- Data Scientist (Graduate / Junior)
+- Business Intelligence Analyst
+- Machine Learning Analyst
+- Statistical / Research Assistant
 
 ---
 
